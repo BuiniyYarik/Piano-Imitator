@@ -164,7 +164,7 @@ def set_melody(sym):
 
 
 # program launch
-print("Welcome to our Wonderful Piano!")
+print("\nWelcome to our Wonderful Piano!\n")
 
 # accept client connection
 client, address = sock.accept()
